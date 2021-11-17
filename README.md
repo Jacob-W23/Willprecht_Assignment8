@@ -1,6 +1,6 @@
 # assignment8
 
-A new Flutter project.
+Individual Final for Mobile Device Programming. Everything should work after clone, visual studio may throw and error for the import statement for flutter/material.dart but just run "flutter run" command and it will still work!
 
 ## Getting Started
 
