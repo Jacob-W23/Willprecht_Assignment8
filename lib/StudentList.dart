@@ -1,7 +1,7 @@
-import 'package:assignment8/editStudent.dart';
 import 'package:flutter/material.dart';
 import 'api.dart';
 import 'main.dart';
+import 'editStudent.dart';
 
 class StudentList extends StatefulWidget {
   final String id, courseName;
